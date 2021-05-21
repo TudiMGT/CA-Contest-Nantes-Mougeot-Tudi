@@ -1,6 +1,4 @@
 # CA-Contest-Nantes-Mougeot Tudi
- 1 - Portfolio en Html CSS
+ 1 - Portfolio Contest
 
-
-
- 2 - Structure du Site
+Language : Html,CSS,SCSS,JVS
